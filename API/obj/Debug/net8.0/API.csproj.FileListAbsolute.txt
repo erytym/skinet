@@ -164,3 +164,4 @@ C:\Users\erytym\Documents\skinet\API\bin\Debug\net8.0\Core.dll
 C:\Users\erytym\Documents\skinet\API\bin\Debug\net8.0\Infrastructure.dll
 C:\Users\erytym\Documents\skinet\API\bin\Debug\net8.0\Infrastructure.pdb
 C:\Users\erytym\Documents\skinet\API\bin\Debug\net8.0\Core.pdb
+C:\Users\erytym\Documents\skinet\api\obj\Debug\net8.0\API.sourcelink.json

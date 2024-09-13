@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\erytym\\Documents\\skinet\\API\\API.csproj": {}
+    "C:\\Users\\erytym\\Documents\\skinet\\api\\API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\erytym\\Documents\\skinet\\API\\API.csproj": {
+    "C:\\Users\\erytym\\Documents\\skinet\\api\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\erytym\\Documents\\skinet\\API\\API.csproj",
+        "projectUniqueName": "C:\\Users\\erytym\\Documents\\skinet\\api\\API.csproj",
         "projectName": "API",
-        "projectPath": "C:\\Users\\erytym\\Documents\\skinet\\API\\API.csproj",
+        "projectPath": "C:\\Users\\erytym\\Documents\\skinet\\api\\API.csproj",
         "packagesPath": "C:\\Users\\erytym\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\erytym\\Documents\\skinet\\API\\obj\\",
+        "outputPath": "C:\\Users\\erytym\\Documents\\skinet\\api\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\erytym\\AppData\\Roaming\\NuGet\\NuGet.Config",
