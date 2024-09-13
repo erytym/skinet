@@ -165,3 +165,6 @@ C:\Users\erytym\Documents\skinet\API\bin\Debug\net8.0\Infrastructure.dll
 C:\Users\erytym\Documents\skinet\API\bin\Debug\net8.0\Infrastructure.pdb
 C:\Users\erytym\Documents\skinet\API\bin\Debug\net8.0\Core.pdb
 C:\Users\erytym\Documents\skinet\api\obj\Debug\net8.0\API.sourcelink.json
+C:\Users\erytym\Documents\skinet\API\bin\Debug\net8.0\AutoMapper.dll
+C:\Users\erytym\Documents\skinet\API\bin\Debug\net8.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\erytym\Documents\skinet\API\bin\Debug\net8.0\API.staticwebassets.runtime.json

@@ -17,7 +17,7 @@ namespace Infrastructure.Data
         }
 
         public async Task<IReadOnlyList<ProductBrand>> GetProductBrandsAsync()
-        {.
+        {
             return await _context.ProductBrands.ToListAsync();
         }
 
